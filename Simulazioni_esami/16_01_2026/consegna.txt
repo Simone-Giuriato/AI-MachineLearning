@@ -1,0 +1,3 @@
+NOTA BENE: Per questo esercizio si consegni il codice sorgente prodotto (Python o Notebook Jupyter) e tutti i risultati ottenuti in termini di metriche di prestazione del modello (eventuali file di log e prodotti dal codice: file .txt, grafici, . . . ). 
+Si consideri il dataset contenuto nel file drug200.csv. La colonna contenente l’etichetta è "Drug". Si analizzi il dataset e si implementino le operazioni di preprocessing e di  addestramento del modello ritenute più opportune. Il codice deve essere commentato per spiegare le scelte effettuate.
+Per questo esercizio è possibile consultare la documentazione delle librerie MatplotLib, Pandas, Scikit-Learn e TensorFlow all'indirizzo: https://public.aries.ing.man/didattica/AI-BigData/
